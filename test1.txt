@@ -1,0 +1,2 @@
+how to git commit
+cd.>a.md 创建一个新的文件
